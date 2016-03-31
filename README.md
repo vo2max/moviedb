@@ -5,7 +5,7 @@ REST API offered by TMDb.
 
 This project was generated with [yo angular generator](https://github.com/yeoman/generator-angular) version 0.15.1. 
 
-A demo of the site can be seen here: [DEMO](http://www.macdiarmid.us/tmdb/)
+A demo of the application can be seen here: [DEMO](http://www.macdiarmid.us/tmdb/)
 
 ## Build / Development
 
