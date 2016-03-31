@@ -7,11 +7,49 @@ This project was generated with [yo angular generator](https://github.com/yeoman
 
 A demo of the application can be seen here: [DEMO](http://www.macdiarmid.us/tmdb/)
 
+## Repository Checkout
+
+Check out the project:
+
+```
+ > git clone https://github.com/vo2max/moviedb.git
+```
+
+Install the Yeoman toolset:
+
+```
+ > npm install --global yo bower grunt-cli
+```
+
+In the project directory, install the required packages:
+
+```
+ > npm install	
+ > bower install
+```
+
 ## Build / Development
 
-* Run `grunt` to build the application
-* Run `grunt serve` for preview (with livereload)
+To build the application:
+
+```
+ > grunt
+```
+
+To preview the application (with livereload):
+
+```
+ > grunt serve
+ ```
 
 ## Testing
 
 NA
+
+## Roadmap
+
+Future enhancements to include:
+
+* Develop unit tests
+* Implement querying via $routeParams (/:query)
+* Implement pagination via $routeParams (/:page)
